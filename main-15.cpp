@@ -1,4 +1,4 @@
-#include <iostream> // for input and output
+#include <iostream> // for the input and output
 #include <string>   // for using string variables
 #include <limits>   // for handling input errors
 #include <memory>   // for future smart pointer use if needed
